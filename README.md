@@ -8,10 +8,7 @@ idea is.
 
 Sites included:
 
-Google Trends
-
-Google Adwords Keyword Tool (Need login so can't open with search params.
-
-Amazon
-
-Google Search
+- Google Trends
+- Google Adwords Keyword Tool (Need login so can't open with search params.
+- Amazon
+- Google Search
